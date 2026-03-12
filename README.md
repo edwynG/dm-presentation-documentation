@@ -10,3 +10,8 @@ Usando el dataset ``data/spotify_tracks.csv``, creamos un notebook donde hicimos
 # Resumen de la presentación
 Usamos la metodología **CRISP-DM** porque es un estándar que ayuda a conectar bien los objetivos del negocio con el análisis técnico. El objetivo principal fue reducir riesgos al invertir en marketing musical, trabajando con un conjunto de datos de 114,000 canciones de Spotify. Primero limpiamos y preparamos los datos, eliminando valores faltantes, columnas irrelevantes y datos extremos para asegurar calidad y evitar errores en el modelo.
 Al analizar los datos, vimos que la popularidad está muy concentrada en pocas canciones exitosas. Descubrimos que la bailabilidad es la característica que más influye en el éxito, mientras que las canciones muy instrumentales suelen ser menos populares. Además, la gente prefiere música con mucha energía. Para entender mejor los títulos de las canciones, usamos técnicas de procesamiento de lenguaje natural que convierten los nombres en vectores y miden qué tan relacionados están con temas como amor, fiesta y tristeza. Sin embargo, al incluir esta información semántica en el modelo, el rendimiento no mejoró, lo que indica que el título solo no ayuda mucho a predecir la popularidad. En conclusión, la popularidad de una canción depende de muchos factores externos, como el marketing y la fama del artista, que no están en los datos. Aun así, el modelo sirve para identificar canciones con bajo potencial comercial basándose en sus atributos técnicos.
+
+ ### **Integrantes del equipo:**
+- Edwyn Guzmán
+- Yarima Contreras Blanco
+- Rafael Contreras Agudelo
