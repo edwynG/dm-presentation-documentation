@@ -1,5 +1,5 @@
 # Predicción de popularidad en Spotify
-Usando el dataset ``data/spotify_tracks.csv``, creamos un notebook donde hicimos todo el proceso de minería de datos. El objetivo fue ver si es posible predecir la posición de una canción en el ranking de Spotify basándonos en sus características técnicas como el tempo, la energía, lo bailable que es y en el significado de su contenido. A partir de este análisis, preparamos la presentación.
+Usando el dataset ``data/spotify_tracks.csv``, creamos un notebook donde hicimos todo el proceso de minería de datos. El objetivo fue ver si es posible predecir la popularidad de una canción de Spotify basándonos en sus características técnicas como el tempo, la energía, lo bailable que es y en el significado de su contenido. A partir de este análisis, preparamos la presentación.
 
 ### Contenido requerido:
 - Selección justificada de metodología y la documentación de su uso.
